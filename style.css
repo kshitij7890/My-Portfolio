@@ -48,7 +48,9 @@ header a:focus{color:#3498db;text-decoration:none}header
     color:#3498db}
 
   #mobile-menu-close span{font-size:0.5em;text-transform:uppercase}
-  #mobile-menu-close i{vertical-align:middle}footer{padding:50px 0}
+  #mobile-menu-close i{vertical-align:middle}
+
+  footer{padding:40px 0}
 
 
 

@@ -1,0 +1,4 @@
+index.html and index.php is same 
+
+to run locally i created .html .....to host it or
+ to runn through xampp delete .html then do it
