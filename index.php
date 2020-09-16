@@ -309,6 +309,22 @@
 		</form>
 
 	</div>
+	
+	
+	
+	<footer>
+			<div class="container">
+					<div class="row">
+							<div class="col-sm-5 copyright">
+									<p>
+											Copyright &copy; 2020 KSHITIJ KUMAR
+									</p>
+							</div>
+							
+					</div>
+			</div>
+	</footer>
+	<!-- End footer -->
 
 
 	
